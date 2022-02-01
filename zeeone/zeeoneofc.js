@@ -129,6 +129,7 @@ ${ucapannya2}
 ┃➥ Prefix :   *${prefix}*
 ┃➥ Total hit : *86151*
 ┃➥ Hit today : *589*
+┃➥ _*ZeusXz Ft Alpha*_
 ┃➥ Speed : *${latensii.toFixed(4)}* Second
 ┃➥ Hostname : *${os.hostname()}*
 ┃➥ Platform : *${os.platform()}*
